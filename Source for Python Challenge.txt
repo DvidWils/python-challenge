@@ -1,0 +1,21 @@
+Source for Python Challenge
+
+class slides and examples for:
+variables
+Loops & updating variable in loops
+lists and dictionaries
+f string & printing
++=
+.append and .items
+
+
+https://www.datacamp.com/tutorial/python-new-line for inserting line breaks in string/print statements
+https://www.geeksforgeeks.org/formatted-string-literals-f-strings-python/ for f string
+https://pythonhow.com/how/limit-floats-to-two-decimal-points/ for decimals
+https://www.w3schools.com/python/python_operators.asp for python operators - example "not in"
+
+
+chatgpt for:
+examples of how to do "not in" and explanation
+trouble shoot txt_file.write(results) error
+examples of loops and looping in python with 2 variables
